@@ -18,7 +18,7 @@ Public code of my past work
    - https://universalpropositions.github.io/
    - https://aclanthology.org/2022.lrec-1.181/
    - Contributed the gold labels for the Vietnamese model (which generated the UP2.0 Vietnamese dataset) in collaboration with researchers from a Vietnamese university, using a labeling tool that I developed.
-   - Delivered a BERT model fine-tuned to the SRL task to the Watson NLP library.
+   - Delivered a BERT model fine-tuned to the SRL task to the Watson NLP library. A version of this model was used to generate the labels for the different languages in the UP2.0 repo.
 - PriMe-SRL Eval
    - https://github.com/UniversalPropositions/PriMeSRL-Eval
    - https://arxiv.org/abs/2210.06408
