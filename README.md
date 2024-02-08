@@ -11,6 +11,19 @@ My background is in applied DS/ML/NLP and now working with LLMs and Conversation
 
 If this sounds interesting to you, reach out to me on [LinkedIn](https://www.linkedin.com/in/kndtran/).
 
+---
+
+Highlights of my past work
+-  Universal Propositions 2.0: https://universalpropositions.github.io/
+   - https://aclanthology.org/2022.lrec-1.181/
+   - Contributed the gold labels for the Vietnamese model (which generated the UP2.0 Vietnamese dataset) in collaboration with researchers from a Vietnamese university, using a labeling tool that I developed.
+   - Delivered a BERT model fine-tuned to the SRL task to the Watson NLP library.
+- PriMe-SRL Eval
+   - https://github.com/UniversalPropositions/PriMeSRL-Eval
+   - https://arxiv.org/abs/2210.06408
+   - This work is the open sourcing of parts of our internal evaluation process for the SRL (Semantic Role Labeling) task. I developed the project structure, pipelines, tests, comparison and evaluation scripts, and various utility functions to glue everything together.
+
+
 <!--
 **kndtran/kndtran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
