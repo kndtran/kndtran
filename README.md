@@ -13,8 +13,9 @@ If this sounds interesting to you, reach out to me on [LinkedIn](https://www.lin
 
 ---
 
-Highlights of my past work
--  Universal Propositions 2.0: https://universalpropositions.github.io/
+Public code of my past work
+-  Universal Propositions 2.0
+   - https://universalpropositions.github.io/
    - https://aclanthology.org/2022.lrec-1.181/
    - Contributed the gold labels for the Vietnamese model (which generated the UP2.0 Vietnamese dataset) in collaboration with researchers from a Vietnamese university, using a labeling tool that I developed.
    - Delivered a BERT model fine-tuned to the SRL task to the Watson NLP library.
