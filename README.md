@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm a Research Software Engineer in IBM, working in the Almaden Research Center in San Jose, CA.
+I'm a Research Software Engineer in IBM, working in the Almaden Research Center in San Jose, CA. Most of my work is inner source, so you won't see much here unfortunately.
 
-My background is in applied DS/ML/NLP and now working with LLMs and Conversational AI.
+My background is in applied DS/ML/NLP and now working with LLMs and Conversational AI. My interests are
 
 - Data for AI
 - Evaluation of AI systems
