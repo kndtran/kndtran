@@ -24,6 +24,17 @@ Public code of my past work
    - https://arxiv.org/abs/2210.06408
    - This work is the open sourcing of parts of our internal evaluation process for the SRL (Semantic Role Labeling) task. I developed the project structure, pipelines, tests, comparison and evaluation scripts, and various utility functions to glue everything together.
 
+---
+
+Short Bio:
+
+Khoi-Nguyen Tran is a senior research software engineer in the Conversational AI group at IBM Research - Almaden, where he leads the development of software solutions for research. His expertise is in model evaluation and the AI data lifecycle, where he has delivered many solutions that reduce the friction across the organization to conduct research. He has also delivered core research technologies, including ML and NLP models, to multiple IBM products under the Watson (and soon watsonx) brand.
+
+Khoi is also known for his work on applying machine learning and NLP to solve business problems. In these areas, he has published over 20 peer-reviewed articles and been granted 12 patents. His contributions have also been recognized by 4 prestigious IBM technical awards.
+
+Khoi is an IEEE Senior Member. He is a member of the Australia-Vietnam Leadership Dialogue (1 of 20 selected biennially) and represented Australian young scientists at the Heidelberg Laureate Forum (1 of 200 selected worldwide annually). He has served as a reviewer for multiple conferences and journals in the data science and machine learning communities, and more recently in the NLP communities through the ACL Rolling Review (ARR). He received his undergraduate and Ph.D. degrees from The Australian National University.
+
+
 
 <!--
 **kndtran/kndtran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
