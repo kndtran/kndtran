@@ -54,6 +54,14 @@ Decision models return a probability for each option of a question instead of ge
 
 📄 Co-author: [*A Library of LLM Intrinsics for Retrieval-Augmented Generation*](https://arxiv.org/abs/2504.11704) (arXiv:2504.11704, 2025).
 
+## 🔌 Agent Infrastructure
+
+**MCP search router:** agents need one search tool that can reach both the open web and private document collections. I designed, built and deployed a router that sends each query to the right backend: web search, Elasticsearch semantic search, or Qdrant vector search with neighboring-passage context.
+- **One core, three interfaces:** the same routing code serves an MCP tool, a REST API and a web UI.
+- **Ingestion at scale:** an offline pipeline with pluggable chunkers, streaming datasets and sharded parallel embedding, run as Kubernetes jobs, that loads agentic-search benchmark corpora such as BrowseComp-Plus.
+- **Runs in a locked-down cluster:** containerized on OpenShift with no outbound internet access, with the embedding model built into the image.
+- **Adopted by other research projects:** two agent projects use it. For one of them, I contributed an MCP client that reads each server's tool schema, so a single tool works with any MCP server.
+
 ## 📊 Benchmarking & Evaluation Automation
 
 - **RAG benchmarks for the Granite 4.0 launch:** I produced the RAG benchmark results featured in IBM's [Granite 4.0 announcement](https://www.ibm.com/new/announcements/ibm-granite-4-0-hyper-efficient-high-performance-hybrid-models), with a harness I built that covers RAGBench, MTRAG and other RAG datasets across vLLM, Ollama and hosted endpoints.
