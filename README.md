@@ -23,7 +23,7 @@ Small adapters (LoRA, aLoRA, Shadow Residuals) handle RAG checks like hallucinat
 |---|---|---|---|
 | Query clarification | 94.4–96.1% | 84.1–86.4% | 47.5–76.2% |
 | Answerability | 89.4–92.2% | 85.2–91.2% | 59.4–65.5% |
-| Hallucination detection (F1) | 70.8–82.9 | 54.8–73.1 | 41.8–53.6 |
+| Hallucination detection (F1) | 70.8–82.9% | 54.8–73.1% | 41.8–53.6% |
 
 ## 🏗️ Systems
 
