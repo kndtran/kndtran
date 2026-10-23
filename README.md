@@ -2,7 +2,7 @@
 
 I'm **Khoi-Nguyen Tran**, a Research Engineer with 10+ years at IBM Research (Silicon Valley Lab, San Jose, CA). I work on making LLM evaluation results trustworthy, and I build the systems that train, serve and evaluate small specialized models: adapters, quantization, local inference, and the evaluation automation that validates them.
 
-📫 [LinkedIn](https://www.linkedin.com/in/kndtran/) · [Google Scholar](https://scholar.google.com/citations?user=ihFcT5QAAAAJ) · [Hugging Face](https://huggingface.co/kndtran) · [Website](https://kndtran.github.io/)
+📫 [LinkedIn](https://www.linkedin.com/in/kndtran/) · [Google Scholar](https://scholar.google.com/citations?user=ihFcT5QAAAAJ) · [Hugging Face](https://huggingface.co/kndtran)
 
 ---
 
